@@ -1,9 +1,9 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica0MSF)
 
-# Práctica 0: Modelo del sistema respiratorio
+# Práctica 1: Diseño de conctroladores
 
 ## Información del estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Alexa Montaño Gomez \[23212215];l23212215t@tijuana.tecn.mx
 
 Modelado de Sistemas Fisiológicos
 
